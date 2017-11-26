@@ -169,8 +169,9 @@ a:visited {
 }
 
 .resize-img {
-    max-width: 500px;
+    max-width: 100%;
     height: auto;
+    margin: auto 0;
 }
 
 /*******************************************************************
