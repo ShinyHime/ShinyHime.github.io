@@ -79,6 +79,9 @@ a:visited {
 .home.jumbotron {
     position: relative;
     background: url('../images/galaxy.jpg') no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
     background-size: cover;
     min-height: 100vh;
     max-height: 100%;
